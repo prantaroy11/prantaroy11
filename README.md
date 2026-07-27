@@ -45,10 +45,9 @@ I am a B.Tech Computer Science Engineering student at the Indian Institute of In
 
 ### 📈 GitHub Stats
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=prantaroy11&show_icons=true&theme=radium&hide_border=true" alt="Pranta's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prantaroy11&layout=compact&theme=radium&hide_border=true" alt="Top Langs" />
-</div>
+![Pranta's GitHub stats](https://github-readme-stats.vercel.app/api?username=prantaroy11&show_icons=true&theme=radium&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prantaroy11&layout=compact&theme=radium&hide_border=true)
 
 ### 🏆 Achievements & Leadership
 
