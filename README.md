@@ -43,12 +43,6 @@ I am a B.Tech Computer Science Engineering student at the Indian Institute of In
     *   Built a multi-agent AI system that generates complete software projects from a single natural language prompt.
     *   Designed a structured workflow orchestrated via LangGraph, utilizing Planner, Architect, and Coder agents.
 
-### 📈 GitHub Stats
-
-![Pranta's GitHub stats](https://github-readme-stats.vercel.app/api?username=prantaroy11&show_icons=true&theme=radium&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prantaroy11&layout=compact&theme=radium&hide_border=true)
-
 ### 🏆 Achievements & Leadership
 
 *   **Competitive Programming:** Achieved Global Rank 5619 in Leetcode BiWeekly 142 and attained a peak rating of 1565. Solved 300+ DSA problems across Leetcode and takeUforward.
@@ -56,5 +50,12 @@ I am a B.Tech Computer Science Engineering student at the Indian Institute of In
 
 ### 📫 Let's Connect
 
-*   **Email:** prantaroy10@gmail.com
-*   **LinkedIn:** [Your LinkedIn Profile URL Here]
+*   **Email:** [prantaroy10@gmail.com](mailto:prantaroy10@gmail.com)
+*   **LinkedIn:** [linkedin.com/in/pranta-roy-joy](https://www.linkedin.com/in/pranta-roy-joy)
+
+<!-- 
+### 📈 GitHub Stats
+Note: Uncomment these when github-readme-stats servers are stable again.
+![Pranta's GitHub stats](https://github-readme-stats.vercel.app/api?username=prantaroy11&show_icons=true&theme=radium)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prantaroy11&layout=compact&theme=radium)
+-->
