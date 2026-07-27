@@ -1,33 +1,61 @@
-# Hi there, I'm Pranta Roy Joy 👋
+# Hi, I'm Pranta Roy Joy 👋
 
-I'm a B.Tech student and software developer passionate about building robust applications, spanning full-stack web platforms, and low-level systems.
+I am a B.Tech Computer Science Engineering student at the Indian Institute of Information Technology Gwalior. I specialize in building robust, production-ready web applications, scalable microservices, and AI-integrated tools. 
 
-### 🚀 What I'm Up To
+### 🚀 What I'm Currently Up To
+*   **Building:** *RoamStay*, a robust backend architecture for a travel accommodation platform, and *React Planner*, a 3D graphics tool for house planning.
+*   **Exploring:** Machine Learning & Deep Learning (specifically CNNs, backpropagation, and adversarial robustness).
+*   **Community:** Actively participating in open-source, aiming to contribute to communities like Meshery and SONiC through the Linux Foundation Mentorship (LFX) program.
 
-*   **Working on:** An internship focused on UI development and QA, ensuring pixel-perfect implementations from Figma designs.
-*   **Building:** *RoamStay*, a robust backend architecture for a travel accommodation platform, and maintaining my *ai-code-generation-agent*.
-*   **Exploring:** Machine Learning & Deep Learning (specifically CNNs, backpropagation, and adversarial robustness), as well as computer architecture and microprocessor systems.
-*   **Community:** Actively participating in open-source, with a goal of contributing through the Linux Foundation Mentorship (LFX) program to communities like Meshery and SONiC.
+### 💼 Experience
 
-### 🛠️ Tech Stack & Skills
+*   **Full Stack Developer Intern | ETY** *(April 2026 - Present)*
+    *   Developing production-grade full-stack features for a UK-based marketplace using Next.js 16, React, Node.js, TypeScript, Sequelize, and PostgreSQL.
+    *   Designing and integrating scalable RESTful APIs for authentication, workshop management, and user dashboards.
+    *   Implementing secure Stripe payment workflows, including Checkout, Connect payouts, and escrow-based payments.
 
-*   **Languages:** C++, Python, JavaScript, TypeScript
-*   **Full-Stack Web:** React.js, Node.js, Express.js
-*   **Core Concepts:** Deep Learning, System Architecture, Low-Level Programming
+### 🛠️ Tech Stack & Tools
 
-### 📂 Featured Projects & Repositories
+<p align="left">
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Stripe-%23008CDD.svg?style=for-the-badge&logo=Stripe&logoColor=white" alt="Stripe" />
+</p>
 
-*   **ai-code-generation-agent:** A multi-agent AI system built in Python that generates complete projects from a single prompt.
-*   **React Planner:** A 3D graphics tool designed for house planning and rendering.
-*   **Golf-Charity-Subscription-Platform:** A TypeScript-based architecture for managing subscriptions.
-*   **Full-Stack Services:** Various JavaScript-driven repositories including *ClinFlow*, *Buy-Sell-Cars*, *Authentication*, and *NotificationService*.
+### 📂 Featured Projects
+
+*   **ClinFlow** | *Node.js, Express, MongoDB, Microservices, Render*
+    *   Architected a scalable, decoupled microservices system for movie ticket bookings.
+    *   Engineered an asynchronous notification microservice utilizing a database-polling architecture and node-cron to reduce main API latency.
+*   **AI Code Generation Agent** | *Python, LangGraph, LangChain, Groq API*
+    *   Built a multi-agent AI system that generates complete software projects from a single natural language prompt.
+    *   Designed a structured workflow orchestrated via LangGraph, utilizing Planner, Architect, and Coder agents.
 
 ### 📈 GitHub Stats
 
-<!-- You can add standard GitHub stat cards here by replacing 'prantaroy11' if you want visual widgets -->
-![Pranta's GitHub stats](https://github-readme-stats.vercel.app/api?username=prantaroy11&show_icons=true&theme=radium)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prantaroy11&layout=compact&theme=radium)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=prantaroy11&show_icons=true&theme=radium&hide_border=true" alt="Pranta's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prantaroy11&layout=compact&theme=radium&hide_border=true" alt="Top Langs" />
+</div>
+
+### 🏆 Achievements & Leadership
+
+*   **Competitive Programming:** Achieved Global Rank 5619 in Leetcode BiWeekly 142 and attained a peak rating of 1565. Solved 300+ DSA problems across Leetcode and takeUforward.
+*   **Leadership:** Served as a Technical Member for Uthaan IIIT Gwalior and as a Content Member at Rotaract Club, authoring 100+ articles and scripts.
 
 ### 📫 Let's Connect
 
-*   **GitHub:** [@prantaroy11](https://github.com/prantaroy11)
+*   **Email:** prantaroy10@gmail.com
+*   **LinkedIn:** [Your LinkedIn Profile URL Here]
