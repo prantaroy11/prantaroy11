@@ -1,6 +1,6 @@
 # Hi there, I'm Pranta Roy Joy 👋
 
-I'm a B.Tech student and software developer passionate about building robust applications, spanning full-stack web platforms, machine learning models, and low-level systems. I am currently focused on expanding my open-source footprint and diving deeper into deep learning paradigms.
+I'm a B.Tech student and software developer passionate about building robust applications, spanning full-stack web platforms, and low-level systems.
 
 ### 🚀 What I'm Up To
 
