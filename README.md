@@ -7,13 +7,6 @@ I am a B.Tech Computer Science Engineering student at the Indian Institute of In
 *   **Exploring:** Machine Learning & Deep Learning (specifically CNNs, backpropagation, and adversarial robustness).
 *   **Community:** Actively participating in open-source, aiming to contribute to communities like Meshery and SONiC through the Linux Foundation Mentorship (LFX) program.
 
-### 💼 Experience
-
-*   **Full Stack Developer Intern | ETY** *(April 2026 - Present)*
-    *   Developing production-grade full-stack features for a UK-based marketplace using Next.js 16, React, Node.js, TypeScript, Sequelize, and PostgreSQL.
-    *   Designing and integrating scalable RESTful APIs for authentication, workshop management, and user dashboards.
-    *   Implementing secure Stripe payment workflows, including Checkout, Connect payouts, and escrow-based payments.
-
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
